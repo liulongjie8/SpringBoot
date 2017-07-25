@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: spring_boot_lls
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring_boot_lls
+Built-By: LLS
+Build-Jdk: 1.7.0_03
+Created-By: Apache Maven 3.2.2
+Implementation-URL: http://maven.apache.org
+Archiver-Version: Plexus Archiver
+

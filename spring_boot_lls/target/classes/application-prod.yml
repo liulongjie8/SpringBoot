@@ -1,0 +1,5 @@
+# 键值对冒号后面，必须空一格
+home:
+ province: 陕西省-prod
+ city: 宝鸡市
+ desc: 我家住在${home.province}的${home.city}
